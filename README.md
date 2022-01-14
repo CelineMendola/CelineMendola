@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙌 I'm currently at the end of a Machine Learning Engineer master's degree training  
+🙌 I'm currently about to end a Machine Learning Engineer master's degree training  
 🔭 I’m currently working on dog pictures classification  
 🐱‍🏍 I used to be a Math teacher in high school  
 💬 Ask me about collaboration or advices  
