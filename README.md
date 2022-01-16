@@ -4,13 +4,13 @@
 🔭 I’m currently working on dog pictures classification  
 🐱‍🏍 I used to be a Math teacher in high school  
 💬 Ask me about collaboration or advices  
-📫 How to reach me: here on github or on my [linkedin profile](https://www.linkedin.com/in/cmendola)  
+📫 How to reach me: here on github or on my [linkedin profile](https://www.linkedin.com/in/cmendola)   
 😄 Pronouns: She/her  
 
 
 ### My Projects : 
 
-### During my ML engineer current training (with CenrtraleSupélec & openclassroms)
+### During my ML engineer current training (with CentraleSupélec & openclassroms)
 
 [Project 1 : Data analysis on openfoodfacts](https://github.com/CelineMendola/analyses-openfoodfacts)
 
@@ -22,7 +22,7 @@
 
 Project 5: (WIP) Dog pictures Classification
 
-### As a data analyst
+### Begining Projects : 
 
 [Project 1 : Analysis of Airbnb investment opportunities in Paris](https://github.com/CelineMendola/projet-airbnb). Project coded in R. 
 
