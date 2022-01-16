@@ -22,7 +22,7 @@
 
 Project 5: (WIP) Dog pictures Classification
 
-### Begining Projects : 
+### My early projects : 
 
 [Project 1 : Analysis of Airbnb investment opportunities in Paris](https://github.com/CelineMendola/projet-airbnb). Project coded in R. 
 
