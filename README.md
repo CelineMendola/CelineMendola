@@ -3,8 +3,7 @@
 🙌 I'm currently about to end a Machine Learning Engineer master's degree training  
 🔭 I’m currently working on dog pictures classification  
 🐱‍🏍 I used to be a Math teacher in high school  
-💬 Ask me about collaboration or advices  
-📫 How to reach me: here on github or on my [linkedin profile](https://www.linkedin.com/in/cmendola)   
+📫 How to reach me: On my [linkedin profile](https://www.linkedin.com/in/cmendola)   
 😄 Pronouns: She/her  
 
 
