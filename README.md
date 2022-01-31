@@ -4,7 +4,6 @@
 🔭 I’m currently working on dog pictures classification  
 🐱‍🏍 I used to be a Math teacher in high school  
 📫 How to reach me: On my [linkedin profile](https://www.linkedin.com/in/cmendola)   
-😄 Pronouns: She/her  
 
 
 ### My Projects : 
