@@ -18,7 +18,7 @@
 
 [Project 4 : Create a tag suggestion API for stackoverflow](https://github.com/CelineMendola/suggestion-tags-stackoverflow)
 
-Project 5: (WIP) Dog pictures Classification
+[Project 5: Dog pictures Classification](https://github.com/CelineMendola/dog-breed-classification)
 
 ### My early projects : 
 
