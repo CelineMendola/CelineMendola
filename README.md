@@ -20,6 +20,8 @@
 
 [Project 5: Dog pictures Classification](https://github.com/CelineMendola/dog-breed-classification)
 
+[Project 6: Kaggle competition](https://github.com/CelineMendola/kaggle-competition)
+
 ### My early projects : 
 
 [Project 1 : Analysis of Airbnb investment opportunities in Paris](https://github.com/CelineMendola/projet-airbnb). Project coded in R. 
