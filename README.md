@@ -20,7 +20,9 @@
 
 [Project 5: Dog pictures Classification](https://github.com/CelineMendola/dog-breed-classification)
 
-[Project 6: Kaggle competition](https://github.com/CelineMendola/kaggle-competition)
+[Project 6: Proof of concept : emotion detection](https://github.com/CelineMendola/POC-emotion-detection)
+
+[Project 7: Kaggle competition](https://github.com/CelineMendola/kaggle-competition)
 
 ### My early projects : 
 
