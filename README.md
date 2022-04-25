@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙌 I'm currently about to end a Machine Learning Engineer master's degree training  
+🙌 I have ended a Machine Learning Engineer master's degree training  
 🔭 I’m currently working on NLP subjects  
 🐱‍🏍 I used to be a Math teacher in high school  
 📫 How to reach me: On my [linkedin profile](https://www.linkedin.com/in/cmendola)   
